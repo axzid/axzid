@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Zulfikar</h1>
 <h3 align="center">A passionate developer from indonesia</h3>
 
-<p style=" color:red; "> anjay </p>
+  <img src="https://axzid.github.io/axzid/Facebook%20cover%20-%203.png">
 
 - 🌱 I’m currently learning **HTML CSS Java Script**
 
