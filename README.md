@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexander Zulfikar</h1>
 <h3 align="center">A passionate developer from indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=axzid&label=Profile%20views&color=0e75b6&style=flat" alt="axizd" /> </p>
-
 <p style=" color:red; "> anjay </p>
 
 - 🌱 I’m currently learning **HTML CSS Java Script**
