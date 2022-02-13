@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML CSS Java Script**
 
-- 👨‍💻 All of my projects are available at [https://fikar.my.id](https://fikar.my.id)
+- 👨‍💻 All of my projects are available at [https://linktr.ee/axz.id](https://fikar.my.id)
 
 - 📝 I regularly write articles on [https://chikstech.eu.org](https://chikstech.eu.org)
 
