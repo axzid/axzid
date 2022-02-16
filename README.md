@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alexander Zulfikar</h1>
-- 📫 How to reach me <a href="linktr.ee/axz.id"> profile </a>
+📫 How to reach me <a href="https://linktr.ee/axz.id"> My profile </a>
 
-- ⚡ Fun fact **I am a gamer and weebs**
+⚡ Fun fact **I am a weebs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
