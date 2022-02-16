@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alexander Zulfikar</h1>
-- 📫 How to reach me **zulfikarchiks@gmail.com**
+- 📫 How to reach me <a href="linktr.ee/axz.id"> profile </a>
 
 - ⚡ Fun fact **I am a gamer and weebs**
 
